@@ -1,0 +1,14 @@
+{
+"appenders": { 
+        "api": { 
+            "type": "file", 
+            "filename": "api.log" 
+        } 
+    },
+    "categories": { 
+        "default": { 
+            "appenders": ["api"], 
+            "level": "info"
+        } 
+    }
+}

@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.form-inline {
+  padding:10px;
+}
+
+.form-inline > * {
+  margin:5px 3px;
+}
+
+.form-control {
+  margin: 3px;
+}
+
+hr{
+  color:#ff0000;
+  border-bottom: 3px solid #e81313 !important;
+}
+
+.entry:not(:first-of-type){
+    margin-top: 10px;
+}

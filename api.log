@@ -1,0 +1,255 @@
+[2019-08-06T18:15:13.616] [INFO] default - --------Index Route called-------
+[2019-08-06T18:15:29.578] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T18:15:29.579] [INFO] default - PORT=8089
+HOST=localhost
+DB_HOST=localhost:3306
+NODE_ENV=development
+[2019-08-06T18:15:29.579] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8089\r' },
+     { key: 'HOST', value: 'localhost\r' },
+     { key: 'DB_HOST', value: 'localhost:3306\r' },
+     { key: 'NODE_ENV', value: 'development' } ] }
+[2019-08-06T18:16:33.409] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T18:16:33.409] [INFO] default - PORT=5000
+HOST=127.0.0.1
+DB_HOST=localhost:27017
+NODE_ENV=production
+[2019-08-06T18:16:33.410] [INFO] default - { process: 'PROCESS2',
+  envs:
+   [ { key: 'PORT', value: '5000\r' },
+     { key: 'HOST', value: '127.0.0.1\r' },
+     { key: 'DB_HOST', value: 'localhost:27017\r' },
+     { key: 'NODE_ENV', value: 'production' } ] }
+[2019-08-06T18:35:12.615] [INFO] default - --------Index Route called-------
+[2019-08-06T18:36:46.769] [INFO] default - --------Index Route called-------
+[2019-08-06T18:37:26.574] [INFO] default - --------Index Route called-------
+[2019-08-06T18:37:54.233] [INFO] default - --------Index Route called-------
+[2019-08-06T18:39:23.343] [INFO] default - --------Index Route called-------
+[2019-08-06T18:40:08.926] [INFO] default - --------Index Route called-------
+[2019-08-06T18:41:49.137] [INFO] default - --------Index Route called-------
+[2019-08-06T18:43:00.923] [INFO] default - --------Index Route called-------
+[2019-08-06T18:44:02.264] [INFO] default - --------Index Route called-------
+[2019-08-06T18:44:12.529] [INFO] default - --------Index Route called-------
+[2019-08-06T18:45:20.397] [INFO] default - --------Index Route called-------
+[2019-08-06T18:45:53.308] [INFO] default - --------Index Route called-------
+[2019-08-06T18:47:01.379] [INFO] default - --------Index Route called-------
+[2019-08-06T18:48:32.486] [INFO] default - --------Index Route called-------
+[2019-08-06T18:48:33.602] [INFO] default - --------Index Route called-------
+[2019-08-06T18:49:04.480] [INFO] default - --------Index Route called-------
+[2019-08-06T18:51:44.071] [INFO] default - --------Index Route called-------
+[2019-08-06T18:58:06.240] [INFO] default - --------Index Route called-------
+[2019-08-06T18:58:08.216] [INFO] default - --------Index Route called-------
+[2019-08-06T18:58:18.880] [INFO] default - --------Index Route called-------
+[2019-08-06T18:58:20.939] [INFO] default - --------Index Route called-------
+[2019-08-06T19:00:18.272] [INFO] default - --------Index Route called-------
+[2019-08-06T19:00:20.436] [INFO] default - --------Index Route called-------
+[2019-08-06T19:00:21.885] [INFO] default - --------Index Route called-------
+[2019-08-06T19:00:24.062] [INFO] default - --------Index Route called-------
+[2019-08-06T19:00:58.144] [INFO] default - --------Index Route called-------
+[2019-08-06T19:02:08.747] [INFO] default - --------Index Route called-------
+[2019-08-06T19:02:12.433] [INFO] default - --------Index Route called-------
+[2019-08-06T19:04:15.386] [INFO] default - --------Index Route called-------
+[2019-08-06T19:06:58.511] [INFO] default - --------Index Route called-------
+[2019-08-06T19:07:35.345] [INFO] default - --------Index Route called-------
+[2019-08-06T19:11:53.188] [INFO] default - --------Index Route called-------
+[2019-08-06T19:13:11.805] [INFO] default - --------Index Route called-------
+[2019-08-06T20:23:15.832] [INFO] default - --------Index Route called-------
+[2019-08-06T20:29:34.133] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T20:29:34.134] [INFO] default - PORT=8089
+HOST=localhost
+DB_HOST=localhost:3306
+NODE_ENV=development
+[2019-08-06T20:29:34.135] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8089\r' },
+     { key: 'HOST', value: 'localhost\r' },
+     { key: 'DB_HOST', value: 'localhost:3306\r' },
+     { key: 'NODE_ENV', value: 'development' } ] }
+[2019-08-06T20:30:57.675] [INFO] default - ---------POST Route Called--------------
+[2019-08-06T20:30:57.675] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T20:30:57.677] [INFO] default - F:\Practice\node-task\process\PROCESS1.env
+[2019-08-06T20:32:59.174] [INFO] default - --------Index Route called-------
+[2019-08-06T22:31:44.966] [INFO] default - --------Index Route called-------
+[2019-08-06T22:31:46.347] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:31:46.348] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:31:46.348] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-06T22:33:28.298] [INFO] default - --------Index Route called-------
+[2019-08-06T22:33:29.051] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:33:29.052] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:33:29.052] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-06T22:35:06.317] [INFO] default - --------Index Route called-------
+[2019-08-06T22:35:06.979] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:35:06.979] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:35:06.980] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-06T22:36:11.946] [INFO] default - --------Index Route called-------
+[2019-08-06T22:36:12.595] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:36:12.595] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:36:12.595] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-06T22:36:55.017] [INFO] default - --------Index Route called-------
+[2019-08-06T22:36:58.279] [INFO] default - --------Index Route called-------
+[2019-08-06T22:36:59.338] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:36:59.339] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:36:59.339] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-06T22:39:34.534] [INFO] default - --------Index Route called-------
+[2019-08-06T22:39:35.113] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:39:35.113] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:39:35.113] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-06T22:48:55.355] [INFO] default - --------Index Route called-------
+[2019-08-06T22:48:58.041] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:48:58.041] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:48:58.041] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-06T22:50:26.730] [INFO] default - --------Index Route called-------
+[2019-08-06T22:50:27.332] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:50:27.333] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:50:27.333] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-06T22:50:40.489] [INFO] default - --------Index Route called-------
+[2019-08-06T22:50:41.134] [INFO] default - ---------GET Route Called--------------
+[2019-08-06T22:50:41.135] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-06T22:50:41.135] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-08T15:16:37.931] [INFO] default - --------Index Route called-------
+[2019-08-08T15:16:44.340] [INFO] default - ---------GET Route Called--------------
+[2019-08-08T15:16:44.341] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-08T15:16:44.342] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-08T15:17:20.800] [INFO] default - --------Index Route called-------
+[2019-08-08T15:17:24.668] [INFO] default - --------Index Route called-------
+[2019-08-08T15:17:27.496] [INFO] default - --------Index Route called-------
+[2019-08-08T15:17:32.607] [INFO] default - --------Index Route called-------
+[2019-08-08T15:17:35.016] [INFO] default - --------Index Route called-------
+[2019-08-08T15:17:47.310] [INFO] default - --------Index Route called-------
+[2019-08-08T15:17:59.979] [INFO] default - --------Index Route called-------
+[2019-08-08T15:18:03.444] [INFO] default - --------Index Route called-------
+[2019-08-08T15:18:20.357] [INFO] default - --------Index Route called-------
+[2019-08-08T15:18:30.949] [INFO] default - --------Index Route called-------
+[2019-08-08T15:20:38.682] [INFO] default - --------Index Route called-------
+[2019-08-08T15:23:51.936] [INFO] default - --------Index Route called-------
+[2019-08-08T15:23:52.601] [INFO] default - ---------GET Route Called--------------
+[2019-08-08T15:23:52.601] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-08T15:23:52.601] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-08T15:25:51.204] [INFO] default - --------Index Route called-------
+[2019-08-08T15:25:51.778] [INFO] default - ---------GET Route Called--------------
+[2019-08-08T15:25:51.780] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-08T15:25:51.780] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-08T15:25:53.518] [INFO] default - --------Index Route called-------
+[2019-08-08T15:25:53.696] [INFO] default - ---------GET Route Called--------------
+[2019-08-08T15:25:53.696] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-08T15:25:53.696] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
+[2019-08-08T15:26:43.021] [INFO] default - --------Index Route called-------
+[2019-08-08T15:26:43.263] [INFO] default - ---------GET Route Called--------------
+[2019-08-08T15:26:43.264] [INFO] default - PORT=8000
+HOST=localhost
+DBHOST=localhost:27017
+SMTP=25
+[2019-08-08T15:26:43.264] [INFO] default - { process: 'PROCESS1',
+  envs:
+   [ { key: 'PORT', value: '8000' },
+     { key: 'HOST', value: 'localhost' },
+     { key: 'DBHOST', value: 'localhost:27017' },
+     { key: 'SMTP', value: '25' } ] }
