@@ -12,7 +12,7 @@
 
 ###  Sample UI
 
-![UI](screens/sample_ui.png)
+![UI](screens/sample_ui.PNG)
 
 ### Testing an API using POSTMAN
 
@@ -20,19 +20,19 @@
   ```
   http://localhost:3000/api/process/Process1
   ```
-  ![GET API](screens/GET_API.png)
+  ![GET API](screens/GET_API.PNG)
 
   ```
   http://localhost:3000/api/process/Process2
   ```  
-  ![GET API](screens/GET_API2.png)
+  ![GET API](screens/GET_API2.PNG)
 
 - Set Environment variables in process 
   ```
   http://localhost:3000/api/process/Process1
   { key1: value1, key2:value2, key3:value3 ....}
   ```
-  ![POST API](screens/POST_API.png)
+  ![POST API](screens/POST_API.PNG)
 
 
 
